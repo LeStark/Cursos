@@ -1,21 +1,25 @@
 # Cursos
 
 Este repositorio reúne distintos materiales de formación que pueden
-utilizarse para cursos y talleres sobre análisis de datos. Actualmente
-incluye:
+utilizarse para cursos y talleres sobre análisis de datos e inteligencia
+artificial. Actualmente incluye:
 
-- **Análisis predictivo para toma de decisiones RRHH**: carpeta con
+- **00 - Data**: conjunto de archivos de datos de ejemplo para ejercicios y
+  demostraciones.
+- **01 - Análisis predictivo para toma de decisiones RRHH**: carpeta con
   contenidos y recursos asociados a un curso enfocado en la aplicación
   de técnicas predictivas en el ámbito de recursos humanos.
-- **Data**: conjunto de archivos de datos de ejemplo para ejercicios y
-  demostraciones.
+- **02 - IA4SC**: materiales vinculados al curso de Inteligencia Artificial
+  para Smart Cities, incluyendo presentaciones, notebooks y recursos de
+  apoyo.
 
 ## Estructura del repositorio
 
 ```text
 Cursos/
-├── Análisis predictivo para toma de decisiones RRHH/
-├── Data/
+├── 00 - Data/
+├── 01 - Análisis predictivo para toma de decisiones RRHH/
+├── 02 - IA4SC/
 ├── LICENSE
 └── README.md
 ```
